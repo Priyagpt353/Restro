@@ -1,0 +1,14 @@
+.navbar{
+    background-color: rgb(85,21,113);
+}
+.navbar-brand{
+    font-size: 25px;
+    color: #fff;
+}
+.navbar a{
+    color: #fff;
+    padding-left: 15px;
+}
+.navbar a:hover{
+    color:#d697f3;
+}
